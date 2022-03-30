@@ -3,6 +3,7 @@ class classe():
     def_init_(self):
         self.name="lea"
         self.couleur="bleu"
+        self.pays='france'
         
 
 
